@@ -1,0 +1,18 @@
+.amarillo{
+	background-color: yellow;
+	border:10px solid yellow;
+}
+.rojo{
+	background-color: red;
+	border:10px solid red;
+}
+div{
+	width:65%;
+	height: 85%;
+	font-size: 18px;
+
+
+}
+.may{
+	text-transform: uppercase;
+}
