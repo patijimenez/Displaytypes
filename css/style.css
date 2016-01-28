@@ -3,6 +3,7 @@
 	}
 .rojo{
 	background-color: red;
+	display: inline;
 	
 }
 div{
@@ -17,8 +18,9 @@ div{
 }
 .may{
 	text-transform: uppercase;
-	
+
 }
 p{
 	text-align: left;
+	display: inline;
 }
