@@ -1,18 +1,22 @@
 .amarillo{
 	background-color: yellow;
-	border:10px solid yellow;
-}
+	}
 .rojo{
 	background-color: red;
-	border:10px solid red;
+	
 }
 div{
-	width:65%;
-	height: 85%;
-	font-size: 18px;
+	width:10%;
+	height: 60%;
+	font-size: 100%;
+	padding: 2%;
+	margin-top: 1%;
 
 
 }
 .may{
 	text-transform: uppercase;
+}
+p{
+	text-align: left;
 }
