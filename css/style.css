@@ -11,11 +11,13 @@ div{
 	font-size: 100%;
 	padding: 2%;
 	margin-top: 1%;
+	display: inline-block;
 
 
 }
 .may{
 	text-transform: uppercase;
+	
 }
 p{
 	text-align: left;
